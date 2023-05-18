@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301033809749",
+    "project_id": "buya-hamka",
+    "storage_bucket": "buya-hamka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301033809749:android:06eb428375383558f3b1dc",
+        "android_client_info": {
+          "package_name": "com.avivizain.buyahamka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301033809749-1pot2s77i52s9i0dg7htce2ccfiuqik2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6oxfrQeyvupKq4z_o9EzA3V2o650KiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301033809749-1pot2s77i52s9i0dg7htce2ccfiuqik2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
